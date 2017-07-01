@@ -1,0 +1,14 @@
+D:\LocalCode\mattUtility\BackgroundWorker-Test\bin\Debug\BackgroundWorker-Test.exe.config
+D:\LocalCode\mattUtility\BackgroundWorker-Test\bin\Debug\BackgroundWorker-Test.exe
+D:\LocalCode\mattUtility\BackgroundWorker-Test\bin\Debug\BackgroundWorker-Test.pdb
+D:\LocalCode\mattUtility\BackgroundWorker-Test\obj\Debug\BackgroundWorker-Test.csprojResolveAssemblyReference.cache
+D:\LocalCode\mattUtility\BackgroundWorker-Test\obj\Debug\MainWindow.g.cs
+D:\LocalCode\mattUtility\BackgroundWorker-Test\obj\Debug\App.g.cs
+D:\LocalCode\mattUtility\BackgroundWorker-Test\obj\Debug\BackgroundWorker-Test_MarkupCompile.cache
+D:\LocalCode\mattUtility\BackgroundWorker-Test\obj\Debug\BackgroundWorker-Test_MarkupCompile.lref
+D:\LocalCode\mattUtility\BackgroundWorker-Test\obj\Debug\MainWindow.baml
+D:\LocalCode\mattUtility\BackgroundWorker-Test\obj\Debug\BackgroundWorker-Test.g.resources
+D:\LocalCode\mattUtility\BackgroundWorker-Test\obj\Debug\BackgroundWorker_Test.Properties.Resources.resources
+D:\LocalCode\mattUtility\BackgroundWorker-Test\obj\Debug\BackgroundWorker-Test.csproj.GenerateResource.Cache
+D:\LocalCode\mattUtility\BackgroundWorker-Test\obj\Debug\BackgroundWorker-Test.exe
+D:\LocalCode\mattUtility\BackgroundWorker-Test\obj\Debug\BackgroundWorker-Test.pdb
