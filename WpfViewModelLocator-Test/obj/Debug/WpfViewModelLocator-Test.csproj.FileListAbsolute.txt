@@ -1,0 +1,15 @@
+D:\LocalCode\mattUtility\WpfViewModelLocator-Test\bin\Debug\WpfViewModelLocator-Test.exe.config
+D:\LocalCode\mattUtility\WpfViewModelLocator-Test\bin\Debug\WpfViewModelLocator-Test.exe
+D:\LocalCode\mattUtility\WpfViewModelLocator-Test\bin\Debug\WpfViewModelLocator-Test.pdb
+D:\LocalCode\mattUtility\WpfViewModelLocator-Test\obj\Debug\MainWindow.g.cs
+D:\LocalCode\mattUtility\WpfViewModelLocator-Test\obj\Debug\App.g.cs
+D:\LocalCode\mattUtility\WpfViewModelLocator-Test\obj\Debug\WpfViewModelLocator-Test_MarkupCompile.cache
+D:\LocalCode\mattUtility\WpfViewModelLocator-Test\obj\Debug\WpfViewModelLocator-Test_MarkupCompile.lref
+D:\LocalCode\mattUtility\WpfViewModelLocator-Test\obj\Debug\MainWindow.baml
+D:\LocalCode\mattUtility\WpfViewModelLocator-Test\obj\Debug\WpfViewModelLocator-Test.g.resources
+D:\LocalCode\mattUtility\WpfViewModelLocator-Test\obj\Debug\WpfViewModelLocator_Test.Properties.Resources.resources
+D:\LocalCode\mattUtility\WpfViewModelLocator-Test\obj\Debug\WpfViewModelLocator-Test.csproj.GenerateResource.Cache
+D:\LocalCode\mattUtility\WpfViewModelLocator-Test\obj\Debug\WpfViewModelLocator-Test.exe
+D:\LocalCode\mattUtility\WpfViewModelLocator-Test\obj\Debug\WpfViewModelLocator-Test.pdb
+D:\LocalCode\mattUtility\WpfViewModelLocator-Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\LocalCode\mattUtility\WpfViewModelLocator-Test\obj\Debug\App.baml

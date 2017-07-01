@@ -1,0 +1,13 @@
+D:\LocalCode\mattUtility\WpfBindingObservableCollection-Demo\bin\Debug\WpfBindingObservableCollection-Demo.exe.config
+D:\LocalCode\mattUtility\WpfBindingObservableCollection-Demo\bin\Debug\WpfBindingObservableCollection-Demo.exe
+D:\LocalCode\mattUtility\WpfBindingObservableCollection-Demo\bin\Debug\WpfBindingObservableCollection-Demo.pdb
+D:\LocalCode\mattUtility\WpfBindingObservableCollection-Demo\obj\Debug\MainWindow.g.cs
+D:\LocalCode\mattUtility\WpfBindingObservableCollection-Demo\obj\Debug\App.g.cs
+D:\LocalCode\mattUtility\WpfBindingObservableCollection-Demo\obj\Debug\WpfBindingObservableCollection-Demo_MarkupCompile.cache
+D:\LocalCode\mattUtility\WpfBindingObservableCollection-Demo\obj\Debug\WpfBindingObservableCollection-Demo_MarkupCompile.lref
+D:\LocalCode\mattUtility\WpfBindingObservableCollection-Demo\obj\Debug\MainWindow.baml
+D:\LocalCode\mattUtility\WpfBindingObservableCollection-Demo\obj\Debug\WpfBindingObservableCollection-Demo.g.resources
+D:\LocalCode\mattUtility\WpfBindingObservableCollection-Demo\obj\Debug\WpfBindingObservableCollection_Demo.Properties.Resources.resources
+D:\LocalCode\mattUtility\WpfBindingObservableCollection-Demo\obj\Debug\WpfBindingObservableCollection-Demo.csproj.GenerateResource.Cache
+D:\LocalCode\mattUtility\WpfBindingObservableCollection-Demo\obj\Debug\WpfBindingObservableCollection-Demo.exe
+D:\LocalCode\mattUtility\WpfBindingObservableCollection-Demo\obj\Debug\WpfBindingObservableCollection-Demo.pdb

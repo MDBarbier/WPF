@@ -1,0 +1,14 @@
+D:\LocalCode\mattUtility\WPF-Binding-example\bin\Debug\WPF-Binding-example.exe.config
+D:\LocalCode\mattUtility\WPF-Binding-example\bin\Debug\WPF-Binding-example.exe
+D:\LocalCode\mattUtility\WPF-Binding-example\bin\Debug\WPF-Binding-example.pdb
+D:\LocalCode\mattUtility\WPF-Binding-example\obj\Debug\WPF-Binding-example.csprojResolveAssemblyReference.cache
+D:\LocalCode\mattUtility\WPF-Binding-example\obj\Debug\MainWindow.g.cs
+D:\LocalCode\mattUtility\WPF-Binding-example\obj\Debug\App.g.cs
+D:\LocalCode\mattUtility\WPF-Binding-example\obj\Debug\WPF-Binding-example_MarkupCompile.cache
+D:\LocalCode\mattUtility\WPF-Binding-example\obj\Debug\WPF-Binding-example_MarkupCompile.lref
+D:\LocalCode\mattUtility\WPF-Binding-example\obj\Debug\MainWindow.baml
+D:\LocalCode\mattUtility\WPF-Binding-example\obj\Debug\WPF-Binding-example.g.resources
+D:\LocalCode\mattUtility\WPF-Binding-example\obj\Debug\WPF_Binding_example.Properties.Resources.resources
+D:\LocalCode\mattUtility\WPF-Binding-example\obj\Debug\WPF-Binding-example.csproj.GenerateResource.Cache
+D:\LocalCode\mattUtility\WPF-Binding-example\obj\Debug\WPF-Binding-example.exe
+D:\LocalCode\mattUtility\WPF-Binding-example\obj\Debug\WPF-Binding-example.pdb

@@ -1,0 +1,17 @@
+D:\LocalCode\mattUtility\WpfMVVMDemo\bin\Release\WpfMVVMDemo.exe.config
+D:\LocalCode\mattUtility\WpfMVVMDemo\bin\Release\WpfMVVMDemo.exe
+D:\LocalCode\mattUtility\WpfMVVMDemo\bin\Release\WpfMVVMDemo.pdb
+D:\LocalCode\mattUtility\WpfMVVMDemo\obj\Release\MainWindow.g.cs
+D:\LocalCode\mattUtility\WpfMVVMDemo\obj\Release\Views\PersonViewer.g.cs
+D:\LocalCode\mattUtility\WpfMVVMDemo\obj\Release\App.g.cs
+D:\LocalCode\mattUtility\WpfMVVMDemo\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\LocalCode\mattUtility\WpfMVVMDemo\obj\Release\WpfMVVMDemo_MarkupCompile.cache
+D:\LocalCode\mattUtility\WpfMVVMDemo\obj\Release\WpfMVVMDemo_MarkupCompile.lref
+D:\LocalCode\mattUtility\WpfMVVMDemo\obj\Release\MainWindow.baml
+D:\LocalCode\mattUtility\WpfMVVMDemo\obj\Release\Views\PersonViewer.baml
+D:\LocalCode\mattUtility\WpfMVVMDemo\obj\Release\WpfMVVMDemo.g.resources
+D:\LocalCode\mattUtility\WpfMVVMDemo\obj\Release\WpfMVVMDemo.Properties.Resources.resources
+D:\LocalCode\mattUtility\WpfMVVMDemo\obj\Release\WpfMVVMDemo.csproj.GenerateResource.Cache
+D:\LocalCode\mattUtility\WpfMVVMDemo\obj\Release\WpfMVVMDemo.exe
+D:\LocalCode\mattUtility\WpfMVVMDemo\obj\Release\WpfMVVMDemo.pdb
+D:\LocalCode\mattUtility\WpfMVVMDemo\obj\Release\WpfMVVMDemo.csprojResolveAssemblyReference.cache

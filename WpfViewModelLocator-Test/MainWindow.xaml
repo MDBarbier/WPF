@@ -1,0 +1,15 @@
+﻿<Window x:Class="WpfViewModelLocator_Test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfViewModelLocator_Test"
+        mc:Ignorable="d"
+        Title="WPF VML Test" Height="350" Width="525">
+    <StackPanel>
+        <TextBox Loaded="TextBlock_Loaded" Text="{Binding Path = Message, Mode=Default}"></TextBox>
+        <TextBlock Text="{Binding Path=Message, Mode=OneWay}"></TextBlock>
+        <TextBox DataContext="{Binding Source={StaticResource ViewModelLocator}, Path=ViewModel}" Text="{Binding Path= Message}"></TextBox>
+        
+    </StackPanel>
+</Window>
