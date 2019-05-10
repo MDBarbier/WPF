@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-D:\LocalCode\mattUtility\WpfMVVMDemo\obj\Debug\
+C:\Code\github\WPF\WpfMVVMDemo\obj\Debug\
 WpfMVVMDemo
 none
 false
 DEBUG;TRACE
-D:\LocalCode\mattUtility\WpfMVVMDemo\App.xaml
+C:\Code\github\WPF\WpfMVVMDemo\App.xaml
 2-166730910
 
-12954735761
+12-308035302
 15767094614
 MainWindow.xaml;Views\PersonViewer.xaml;
 
