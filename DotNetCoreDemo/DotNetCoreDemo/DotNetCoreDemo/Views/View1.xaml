@@ -4,6 +4,17 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:DotNetCoreDemo.Views"
+        xmlns:vm="clr-namespace:DotNetCoreDemo.ViewModels"
         mc:Ignorable="d">
-    <TextBlock>HEllo</TextBlock>
+    <UserControl.DataContext>
+        <vm:ViewModel1 />
+    </UserControl.DataContext>
+    <Grid>        
+        <TextBox Name="NameBox" 
+                         Height="30" 
+                         HorizontalAlignment="Stretch"                                                  
+                         Text="{Binding Path=Model1.Name}">            
+        </TextBox>
+        <Button Name="ClickMe" Content="ClickMe" Command="{Binding Path=ClickMeCommand}" CommandParameter="{Binding ElementName=ClickMe, Path=Content}" Width="100" Height="100"></Button>
+    </Grid>
 </UserControl>
