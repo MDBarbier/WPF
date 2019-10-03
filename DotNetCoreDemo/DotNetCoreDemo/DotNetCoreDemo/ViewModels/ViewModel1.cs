@@ -36,7 +36,8 @@ namespace DotNetCoreDemo.ViewModels
 
         private void ClickMeButtonExecuteMethod(object parameter)
         {
-            MessageBox.Show("Hello, world!");
+            //MessageBox.Show("Hello, world!");
+            Model1.DateTimes.Add($"Hello {Model1.Name}. The time now is {DateTime.Now}");
         }
 
         event PropertyChangedEventHandler INotifyPropertyChanged.PropertyChanged
